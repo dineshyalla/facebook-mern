@@ -48,7 +48,7 @@ const Header = () => {
 
       <div className="header__right">
         <div className="header__info">
-          <Avatar />
+          <Avatar src="" />
           <h4>Dinesh</h4>
         </div>
 
